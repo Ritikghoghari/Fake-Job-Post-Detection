@@ -17,7 +17,7 @@ This project aims to build a classifier that automatically detects whether a job
 - Data cleaning and preprocessing of job posting texts  
 - Exploratory Data Analysis (EDA) with visualizations  
 - Feature extraction using TF-IDF vectorizer  
-- Model building with Logistic Regression / Naive Bayes classifier  
+- Model building with RandomForestClassifier
 - Interactive Streamlit app to input job descriptions and get real/fake predictions
 
 ---
